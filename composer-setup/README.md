@@ -83,7 +83,7 @@ Would become a composer.json file like this:
 	"require": {
 		"composer/installers": "*@dev",
 		"wordpress-plugin:coblocks": "*",
-		"wordpress-plugin:pendant": "*"
+		"wordpress-theme:pendant": "*"
 	},
 	"extra": {
 		"installer-paths": {
